@@ -1,0 +1,29 @@
+.container__left-bar {
+  margin-top: 4rem;
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  padding: 0.5rem 0;
+  background-color: var(--color-grey);
+  width: 20vw;
+
+}
+
+p {
+  width: 20vw;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-primary);
+
+}
+
+a:hover {
+  text-decoration: underline;
+}
